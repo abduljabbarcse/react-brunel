@@ -54,4 +54,4 @@ This will generate an optimized production build in the `dist` directory.
 
 - This project was bootstrapped using Vite.js, a fast development server and build tool.
 - Explore the project structure and source code to understand its implementation.
-- For any questions or assistance, feel free to reach out to [Your Name] at [Your Contact Information].
+
